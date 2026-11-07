@@ -361,6 +361,7 @@ Real-world projects implementing AGENTS.md, AGENT.md, or CLAUDE.md for AI agent 
 - [sst/opencode](https://github.com/sst/opencode) - Issue/discussion on `AGENT.md` vs `AGENTS.md`, showing ecosystem early-stage. ![](https://img.shields.io/github/stars/sst/opencode?style=social)
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Discussion of adding support for `AGENTS.md`. ![](https://img.shields.io/github/stars/anthropics/claude-code?style=social)
 - [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool with 160+ ready-to-use AI agents, custom commands, MCPs, and complete project templates for Claude Code. [Browse templates](https://www.aitmpl.com/agents) ![](https://img.shields.io/github/stars/davila7/claude-code-templates?style=social)
+- [Brevio-Ventures/brevio-core](https://github.com/Brevio-Ventures/brevio-core) - Zero-token PR invariants, cross-tool `AGENTS.md` / `CLAUDE.md` / `.cursor/rules` drift sync (`brevio-core memory sync`), and deterministic security & reliability scanner. ![](https://img.shields.io/github/stars/Brevio-Ventures/brevio-core?style=social)
 
 ## Contribute
 
